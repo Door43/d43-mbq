@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mbq:home|Door43 (mbq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mbq|d43-mbq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mbq/archive/master.zip|d43-mbq.zip]]
+
+**Recent Changes**
+{{changes>ns = mbq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mbq|Ethnologue data]]
+
